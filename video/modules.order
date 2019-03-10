@@ -1,0 +1,4 @@
+kernel//work/projects/video/vivi.ko
+kernel//work/projects/video/videobuf-core.ko
+kernel//work/projects/video/videobuf-vmalloc.ko
+kernel//work/projects/video/v4l2-common.ko
